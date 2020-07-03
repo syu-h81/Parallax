@@ -1,0 +1,14 @@
+@media (max-width:600px) {
+  .bg-wrapper {
+    background-image: url(../images/LEXUS_LS_back.png);
+    background-size: contain;
+    height: 2000px;
+    background-repeat: no-repeat;
+  }
+
+  .bg2-img {
+    padding-top: 33%;
+    width: 100%;
+    height: auto;
+  }
+}
