@@ -17,7 +17,7 @@ body {
 }*/
 
 .bg-wrapper {
-  background-image: url(../images/LEXUS_LS_back.png);
+  background-image: url(https://syu-h81.github.io/Parallax/LEXUS_LS_back.png);
   background-size: contain;
   height: 3000px;
   background-repeat: no-repeat;
