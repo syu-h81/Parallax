@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/*.bg-wrapper {
+  background-image: url(../images/LEXUS_LS_back.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 700px;
+}*/
+
+.bg-wrapper {
+  background-image: url(../images/LEXUS_LS_back.png);
+  background-size: contain;
+  height: 3000px;
+  background-repeat: no-repeat;
+}
+
+
+
+.bg2-img {
+  padding-top: 33%;
+  width: 100%;
+  height: 400px;
+}
