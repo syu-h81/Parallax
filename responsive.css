@@ -1,14 +1,64 @@
 @media (max-width:600px) {
   .bg-wrapper {
-    background-image: url(https://syu-h81.github.io/Parallax/LEXUS_LS_back.png);
+    background-image: url(../images/LEXUS_LS_back.png);
     background-size: contain;
-    height: 2000px;
     background-repeat: no-repeat;
   }
 
+  .menu-nav li {
+    padding: 1% 4%;
+    list-style: none;
+    color: #fff;
+    font-family: serif;
+    font-size: 0.5em;
+    letter-spacing: 1px;
+  }
+
   .bg2-img {
-    padding-top: 33%;
     width: 100%;
     height: auto;
+  }
+
+  .content-imp1 {
+    display: block;
+    margin: 0;
+    text-align: justify;
+  }
+
+  .content1-title {
+  }
+
+  .cars-field {
+    display: block;
+  }
+
+  .contents-img-field {
+    width: 100%;
+  }
+
+  .text-contents-field {
+    margin-right: 0;
+    display: block;
+    text-align: center;
+  }
+
+  .safety-field {
+    flex-direction: column-reverse;
+  }
+
+  .gallery-img {
+    width: 100%;
+    height: 120px;
+  }
+
+  .footer-menu-nav {
+    display: block;
+    font-size: 0.6em;
+    text-align: justify;
+  }
+
+  .text-copy-right {
+    font-size: 0.4em;
+    text-align: justify;
   }
 }
