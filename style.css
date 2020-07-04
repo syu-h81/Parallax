@@ -15,7 +15,7 @@ a {
 }
 
 /*.bg-wrapper {
-  background-image: url(../images/LEXUS_LS_back.png);
+  background-image: url(https://syu-h81.github.io/Parallax/LEXUS_LS_back.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -23,7 +23,7 @@ a {
 }*/
 
 .bg-wrapper {
-  background-image: url(../images/LEXUS_LS_back.png);
+  background-image: url(https://syu-h81.github.io/Parallax/LEXUS_LS_back.png);
   background-size: cover;
   height: auto;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ header {
 
 .safety-wrapper {
   /*background-color: rgba(0, 0, 0, 1);*/
-  background-image: url(../images/safety-bg2.png), linear-gradient(#000000, #000000);
+  background-image: url(https://syu-h81.github.io/Parallax/safety-bg2.png), linear-gradient(#000000, #000000);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
